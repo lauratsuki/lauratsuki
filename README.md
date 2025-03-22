@@ -24,6 +24,9 @@ heya' i am laura, a person on the internet who likes yume 2kki, pokémon, object
   <img src="https://i2.glitter-graphics.org/pub/679/679152rzoh861uxv.gif" width="400" height="10"> 
 </div>
 <h1>how to interact with me properly on ponytown</h1>
+
+PLEASE PLEASE PRETTY PLEASE <b><i>DO NOT COPY MY SKINS UNLESS I GIVE YOU PERMISSION</i></b>. i really want to make my skins look nice and unique and also that my oomf can identify me easily
+
 usually i interact with anybody that does not clarify their interaction status, if you <i>DO</i> have an interaction status with you (dniuid, iwc, fti, and the like) then i will follow those statuses appropiately.
 
 if i know you and you are a friend of mine, then you may <b><i>cuddle and hide</i></b> freely. i also tend to ask others if i can cuddle/hide as well.

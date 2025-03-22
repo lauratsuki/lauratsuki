@@ -19,7 +19,7 @@
 <div id="header" align="center">
 heya' i am laura, a person on the internet who likes yume 2kki, pokémon, object shows, bin weevils and more' i also draw, edit, and sometimes animate whenever i feel like it.
 
-<b><i>this readme usually contains info about my ponytown stuff, if you want to see my general info please please pretty please <a href=https://lauralitezz.straw.page/links>go to my strawpage</a>, unless you don!t care about that LOL</i></b>
+<b><i>this readme usually contains info about my ponytown stuff, if you want to see my general info please please pretty please <a href=https://lauralitezz.straw.page>go to my strawpage</a>, unless you don!t care about that LOL</i></b>
 <div id="header" align="center">
   <img src="https://i2.glitter-graphics.org/pub/679/679152rzoh861uxv.gif" width="400" height="10"> 
 </div>
@@ -33,7 +33,7 @@ if i know you and you are a friend of mine, then you may <b><i>cuddle and hide</
 
 <i>please consider</i> using tonetags on me, since i tend to misinterpret tones <i>for some reason</i>. i also tend to use tonetags myself as well, just in case others need them to communicate properly.
 
-also consider seeing my interact/dni list on my strawpage <a href=https://lauralitezz.straw.page/interaction>/here'</a>
+also consider seeing my interact/dni list on my strawpage <a href=https://lauralitezz.straw.page/interaction>here'</a>
 
 i have a typing quirk that swaps places with `'` and `!`, so there!s not much need of a translation unless you have a screenreader on for obvious reasons.
 

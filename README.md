@@ -25,7 +25,7 @@ heya' i am laura, a person on the internet who likes yume 2kki, pokémon, object
 </div>
 <h1>how to interact with me properly on ponytown</h1>
 
-PLEASE PLEASE PRETTY PLEASE <b><i>DO NOT COPY MY SKINS UNLESS I GIVE YOU PERMISSION</i></b>. i really want to make my skins look nice and unique and also that my oomf can identify me easily
+PLEASE PLEASE PRETTY PLEASE <b><i>DO NOT COPY MY SKINS UNLESS I GIVE YOU PERMISSION</i></b>. i really want to make my skins look nice and unique and also that my oomfs can identify me oh pt easily
 
 usually i interact with anybody that does not clarify their interaction status, if you <i>DO</i> have an interaction status with you (dniuid, iwc, fti, and the like) then i will follow those statuses appropiately.
 

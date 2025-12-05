@@ -13,7 +13,7 @@
  quick links:
 </div>
 <div id="header" align="center">
-  <a href=lauratsuki.atabook.org>atabook</a>, <a href=https://colormytree.me/2025/01KBPT9K1MYJZXD8CA8T3B6NB3>my tree</a>
+  <a href=https://lauratsuki.atabook.org>atabook</a>, <a href=https://colormytree.me/2025/01KBPT9K1MYJZXD8CA8T3B6NB3>my tree</a>
 </div>
 <div id="header" align="center">
  <b>(OLD) strawpage</b>:

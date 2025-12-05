@@ -1,3 +1,4 @@
+# <div align="center"><a href=https://colormytree.me/2025/01KBPT9K1MYJZXD8CA8T3B6NB3>color my tree NOOOWWWW!!!!</a></div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kosugi+Maru&duration=3000&pause=1000&color=FF479C&background=22113980&center=true&vCenter=true&random=true&width=1000&height=45&lines=welcome!+%5E%5E;what+do+i+do+here;her+dream+is+still+going+on...;Goog...;Donatella+VERSACE+%F0%9F%92%9C;play+yume+2kki+NOW!!!;%F0%9F%92%A5%F0%9F%92%A5%F0%9F%92%A5%F0%9F%92%A5%F0%9F%92%A5;meow+%3A3)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://external-media.spacehey.net/media/sgEPprbrKtCSydBVayVZauxvncuorE3E2skzWU-QpmCk=/https://i.ibb.co/crDfpdq/starsdivider.gif" width="500"/>

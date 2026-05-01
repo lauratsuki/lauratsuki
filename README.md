@@ -15,7 +15,7 @@
   <a href=https://lauratsuki.atabook.org>atabook</a>, <a href=https://colormytree.me/2025/01KBPT9K1MYJZXD8CA8T3B6NB3>my tree</a>
 </div>
 <div id="header" align="center">
-<b>personal website</b>: <a href=https://lauratsuki.nekoweb.org></a>
+<b>personal website</b>: <a href=https://lauratsuki.nekoweb.org>lauratsuki.nekoweb.org</a>
 </div>
 <hr>
 <div id="header" align="center">

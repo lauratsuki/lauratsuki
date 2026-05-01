@@ -17,10 +17,6 @@
 <div id="header" align="center">
 <b>personal website</b>: <a href=https://lauratsuki.nekoweb.org></a>
 </div>
-<div id="header" align="center">
- <b>(OLD) strawpage</b>:
- <a href=https://lauralitezz.straw.page/links>socials</a>, <a href=https://lauralitezz.straw.page/favs>favs</a>, <a href=https://lauralitezz.straw.page/gimmicks>sign</a>
-</div>
 <hr>
 <div id="header" align="center">
 heya' i am laura, a person on the internet who likes yume 2kki, pokémon, object shows, bin weevils and more' i also draw, edit, and sometimes animate whenever i feel like it.

@@ -20,6 +20,7 @@
 <hr>
 <div id="header" align="center">
 heya' i am laura, a person on the internet who likes yume 2kki, pokémon, object shows, bin weevils and more' i also draw, edit, and sometimes animate whenever i feel like it.
+OKay future laura here, this readme is quite old so you should pretty please <a href=https://lauratsuki.nekoweb.org>check my own site instead. thank you very much</a>
 
 <b><i>this readme usually contains info about my ponytown stuff, if you want to see my general info please please pretty please <a href=https://lauralitezz.straw.page>go to my strawpage</a>, unless you don!t care about that LOL</i></b>
 <div id="header" align="center">

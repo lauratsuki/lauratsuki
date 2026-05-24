@@ -31,7 +31,7 @@ PLEASE PLEASE PRETTY PLEASE <b><i>DO NOT COPY MY SKINS UNLESS I GIVE YOU PERMISS
 
 usually i interact with anybody that does not clarify their interaction status, if you <i>DO</i> have an interaction status with you (dniuid, iwc, fti, and the like) then i will follow those statuses appropiately.
 
-if i know you and you are a friend of mine, then you may <b><i>cuddle and hide</i></b> freely. i also tend to ask others if i can cuddle/hide as well.
+if i know you and you are a friend of mine, then you may <b><i>cuddle and hide</i></b> freely. i also (rarely) ask others if i can cuddle/hide as well.
 
 <i>please consider</i> using tonetags on me, since i tend to misinterpret tones <i>for some reason</i>. i also tend to use tonetags myself as well, just in case others need them to communicate properly.
 
